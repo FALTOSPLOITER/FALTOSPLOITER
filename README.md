@@ -1,8 +1,8 @@
 # 👾 ᴡʜᴏᴀᴍɪ
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=HEY%2C+I'M+NITHIEN+AACHINTHYA)](https://git.io/typing-svg)
  
-I am a dedicated cybersecurity professional with extensive experience in both offensive and defensive strategies within the digital landscape. As a proficient hacker and malware analyst, I specialize in identifying vulnerabilities and enhancing security measures to protect critical assets. My work involves in-depth code analysis and active participation in red and blue team exercises, with a focus on outsmarting threats and safeguarding digital environments.
+I am a cybersecurity professional specializing in both offensive and defensive strategies, with a strong emphasis on malware development and analysis. My expertise spans identifying vulnerabilities, enhancing security measures, and actively participating in red and blue team exercises. I excel at transforming complex challenges into actionable insights, continually refining my skills to stay ahead of emerging threats.
 
-💻 With a strong background in malware development and analysis, I transform challenges into actionable insights, continually refining my skills to stay ahead of emerging cyber threats. I am a firm believer in the importance of knowledge sharing as a means to foster a safer cyber ecosystem, and I am enthusiastic about engaging with fellow professionals in the cybersecurity community.
+In addition to my cybersecurity focus, I am deeply involved in robotics development and have a comprehensive understanding of the Internet of Things (IoT). I integrate this knowledge to enhance security within IoT ecosystems and robotic systems, ensuring both safety and resilience against evolving cyber threats.
 
-🔍 I welcome opportunities for collaboration and exploration within the ever-evolving field of cybersecurity.....!
+I am committed to knowledge sharing, fostering a safer cyber ecosystem, and engaging with the broader cybersecurity and robotics communities to drive innovation and security forward.
