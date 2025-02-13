@@ -1,8 +1,6 @@
 # 👾 ᴡʜᴏᴀᴍɪ
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=HEY%2C+I'M+NITHIEN+AACHINTHYA)](https://git.io/typing-svg)
  
-I am a cybersecurity professional specializing in both offensive and defensive strategies, with a strong emphasis on malware development and analysis. My expertise spans identifying vulnerabilities, enhancing security measures, and actively participating in red and blue team exercises. I excel at transforming complex challenges into actionable insights, continually refining my skills to stay ahead of emerging threats.
+I am a skilled cybersecurity professional specializing in both offensive and defensive strategies, with expertise in malware development, vulnerability assessment, and red/blue team exercises. My focus is on transforming complex challenges into actionable solutions to stay ahead of emerging threats.
 
-In addition to my cybersecurity focus, I am deeply involved in robotics development and have a comprehensive understanding of the Internet of Things (IoT). I integrate this knowledge to enhance security within IoT ecosystems and robotic systems, ensuring both safety and resilience against evolving cyber threats.
-
-I am committed to knowledge sharing, fostering a safer cyber ecosystem, and engaging with the broader cybersecurity and robotics communities to drive innovation and security forward.
+In addition, I bring deep knowledge of robotics and IoT security, ensuring resilient systems in an increasingly connected world. Certified in ISO 9001 and ISO 27001, I am committed to enhancing security, sharing knowledge, and driving innovation in cybersecurity and emerging technologies.
