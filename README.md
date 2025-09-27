@@ -8,4 +8,3 @@
 ⚡ Exploits are temporary, knowledge is forever.  
 
 `>_ In the noise of the matrix, I choose to be the signal.`
-[Hacker](https://img.shields.io/badge/HACKER-GLITCH-%23000000?style=for-the-badge&logo=linux&logoColor=green)  
