@@ -1,6 +1,7 @@
 # 👾 ᴡʜᴏᴀᴍɪ
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=HEY%2C+I'M+NITHIEN+AACHINTHYA)](https://git.io/typing-svg)
 ![Hacker](https://img.shields.io/badge/Hacker-Mode-black?style=for-the-badge&logo=linux)
+[Hacker](https://img.shields.io/badge/HACKER-GLITCH-%23000000?style=for-the-badge&logo=linux&logoColor=green)  
 ## 🕶️ Cybersecurity Enthusiast | Red Team Dreamer  
 
 💻 Living in the shadows of code.  
